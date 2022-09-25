@@ -1,0 +1,23 @@
+{
+  "name":"Horse #10",
+  "description":"1010 Horse Collection.",
+  "image":"https://raw.githubusercontent.com/e1100x/Web3/main/horse.png",
+  "attributes":[
+    {
+      "trait_type":"background",
+      "value":"6"
+    },{
+      "trait_type":"color",
+      "value":"95"
+    },{
+      "trait_type":"magic",
+      "value":"65"
+    },{
+      "trait_type":"exp",
+      "value":"166"
+    },{
+      "trait_type":"lv",
+      "value":"S"
+    }
+  ]
+}
