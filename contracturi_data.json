@@ -1,0 +1,8 @@
+{
+  "name": "1024 Horse",
+  "description": "1024 Horse",
+  "image": "https://raw.githubusercontent.com/e1100x/Web3/main/horse.png",
+  "external_link": "external-link-url",
+  "seller_fee_basis_points": 100, # Indicates a 1% seller fee.
+  "fee_recipient": "0x9A3692F8e86fcC790eF4F7097b7934F33f165c7d" # Where seller fees will be paid to.
+}
